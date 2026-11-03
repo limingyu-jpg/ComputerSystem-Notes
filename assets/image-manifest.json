@@ -1,0 +1,45 @@
+{
+  "images": [
+    {
+      "original": "笔记/image-1.png",
+      "path": "assets/images/image-1.png",
+      "sha256": "4c5dce4616907d70c82eb996ab002515662ab0291ba1a7f26b921bbbcedfb305"
+    },
+    {
+      "original": "笔记/image-2.png",
+      "path": "assets/images/image-2.png",
+      "sha256": "abd736e58728af1a25858b5f9eac54fd600f19d947bdb71b7915b737c45927b8"
+    },
+    {
+      "original": "笔记/image-3.png",
+      "path": "assets/images/image-3.png",
+      "sha256": "19dd1ea449341c7832555f8fcaf68e3ae6d3c2ecf444eb7d984b749c2bb1d279"
+    },
+    {
+      "original": "笔记/image-4.png",
+      "path": "assets/images/image-4.png",
+      "sha256": "3b6ec5092ee32b2533b81eb129db9103f93f531b4a71072d3d11feaf005b7459"
+    },
+    {
+      "original": "笔记/image-5.png",
+      "path": "assets/images/image-5.png",
+      "sha256": "144e93000f5127f13f34073010d0a0d3168fe15e37b4f452d92af7813bdb0938"
+    },
+    {
+      "original": "笔记/image-6.png",
+      "path": "assets/images/image-6.png",
+      "sha256": "c04e9fc0778f76aaa36ff7b23f5ae918601757e9f800e3e08072428ef78de556"
+    },
+    {
+      "original": "笔记/image-7.png",
+      "path": "assets/images/image-7.png",
+      "sha256": "b9b52c0cacc012773c03e66ba7868c7f8514bddeb265c2ea848ea3af0752d69c"
+    },
+    {
+      "original": "笔记/image.png",
+      "path": "assets/images/image.png",
+      "sha256": "a18b7e25506351500de44700507da955254ff8376a1c90972ae5696d820effba"
+    }
+  ],
+  "missing": []
+}
