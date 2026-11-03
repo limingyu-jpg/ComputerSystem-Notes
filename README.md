@@ -4,9 +4,13 @@
 
 ## 目录
 
-- [硬件.md](笔记/硬件.md) — ISA 设计目标与分类、寻址模式、流水线基础（Laundry 示例）、三种执行模式（Sequential / Overlapping / Pipelining）及其冲突问题
+- [硬件.md](笔记/硬件.md) — ISA 与 CPU 设计、流水线及冲突、分支预测、多发射、异常与中断、链接与加载
 - [硬件代码.md](笔记/硬件代码.md) — Verilog / SystemVerilog 要点：`always_comb` / `always_ff` / `always_latch` 区别、有符号数与位宽、`=` / `<=` / `==` 的使用场景
 
+
+## 新增课程内容
+
+- [软件：操作系统](笔记/软件.md) — 操作系统结构、内存、特权指令、系统调用与软硬件衔接
 
 ## 阅读与排版
 

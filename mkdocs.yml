@@ -29,8 +29,9 @@ theme:
     - content.code.copy
 nav:
   - 首页: README.md
-  - "硬件：ISA 与流水线": "笔记/硬件.md"
+  - "硬件：ISA、流水线与体系结构": "笔记/硬件.md"
   - "硬件代码": "笔记/硬件代码.md"
+  - "软件：操作系统": "笔记/软件.md"
 plugins:
   - search:
       lang: [en, zh]
